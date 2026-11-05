@@ -1,4 +1,7 @@
-<p align="center"><a href="https://hikingrepublic.org"><img src="wordmark.png" width="560" alt="Hiking Republic"></a></p>
+<p align="center"><a href="https://hikingrepublic.org"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="wordmark-dark.png">
+  <img src="wordmark.png" width="560" alt="Hiking Republic">
+</picture></a></p>
 
 <p align="center"><b>Find your trail. Form your republic.</b><br>A worldwide community of hikers, born in Switzerland.</p>
 
